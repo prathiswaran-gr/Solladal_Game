@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558884832812",
+    "project_id": "solladal",
+    "storage_bucket": "solladal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558884832812:android:758a9ac1f3cfd4a749f389",
+        "android_client_info": {
+          "package_name": "com.arjava.solladal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558884832812-bagm1qtfpp31r4aa7knultr9t086rnfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd7T1XjnLltmJMvXSuLhYho7w8hvZfnQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558884832812-bagm1qtfpp31r4aa7knultr9t086rnfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
